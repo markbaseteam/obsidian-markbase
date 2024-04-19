@@ -6,7 +6,7 @@ Official [Markbase](https://markbase.xyz) plugin to share your Obsidian notes on
 
 ## Instructions
 
-1. Install the plugin
+1. Install the plugin 
 2. Copy your personal token from the dashboard or settings section in the [Markbase app](https://app.markbase.xyz) into the Markbase plugin settings in Obsidian
 3. In the Obsidian plugin's settings, create a project and choose a folder/file to upload online
 4. **You're done!** That folder should be live online in your own digital garden at https://<project-slug>.markbase.xyz (or at a custom domain if specified)
